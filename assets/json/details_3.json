@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "topic": 1,
+      "title": "Lesson 3: How to Prevent?",
+      "content" : [
+        {
+          "title": " ",
+          "description": [
+            {
+              "desc": "• Use e-mail only for routine office communication: Never send sensitive information as e-mail. If e-mail absolutely must be used, encrypt the file, and send it as an attachment rather than in the text of the e-mail message."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• Encrypt everything before it leaves your workstation: Even your password needs to be encrypted before leaving the workstation on its way to the network server-otherwise it could be intercepted as it travels network connections."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• Don't give out information about yourself like your name, house address and phone numbers to people that you meet on the internet."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• Don't send a picture of yourself, your friends or family to someone you met or chat with online."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• If somebody says something that worries you or want to send you something, ask your parents or someone elderly. Be alert to whatever they say, especially if the person is asking many personal questions."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• If you plan to meet someone that you have met on the Internet, take your parents or someone elderly with you. People in real life can be different from how they are online."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• Don't open up e-mails, files, or website links from people you don't really know."
+            }
+          ]
+        }, 
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• Don't ever give your password to strangers."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• Never reveal any personal information, including that of your parents, through email, instant messaging, chat, or message boards, particularly if you are unsure."
+            }
+          ]
+        },
+        {
+          "title": "",
+          "description": [
+            {
+              "desc": "• Keep in mind that not everyone you meet online will be who they claim to be. Even when someone claims to be a 12-year-old girl, they can really be a guy."
+            }
+          ]
+        }
+
+
+      ],
+      "status": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "data": [
+      {
+        "topic": 4,
+        "title": "Cyberbullying",
+        "overview": "The act of threatening or harassing someone through online platform is referred to as cyberbullying. Since it is sometimes difficult to exert control over and is often apparent to a wide number of people, this kind of bullying may be very challenging to deal with. You will be able to get an understanding of what cyberbullying is, how it affects young people, and some suggestions on how you and the others in your circle may cope with it by going through this topic.",
+        "lessons": [
+          {
+            "title": "Lesson 1",
+            "time": "15 minutes",
+            "image": "assets/images/Number1.png",
+            "code": "SUB1",
+            "status": 0
+          },
+          {
+            "title": "Lesson 2",
+            "time": "15 minutes",
+            "image": "assets/images/sign.png",
+            "code": "SUB2",
+            "status": 0
+          },
+          {
+            "title": "Lesson 3",
+            "time": "15 minutes",
+            "image": "assets/images/Topic1.jpg",
+            "code": "SUB3",
+            "status": 0
+          }
+        ],
+        "assessment": [
+          {
+            "title": "Assessment",
+            "time": "15 minutes",
+            "image": "assets/images/Topic 1.png",
+            "code": "ASS1",
+            "status": 0
+          }
+        ]
+      }
+    ]
+  }

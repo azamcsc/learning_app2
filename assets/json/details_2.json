@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "topic": 1,
+      "title": "Lesson 2",
+      "content" : [
+        {
+          "title": "Why is it important?",
+          "description": [
+            {
+              "desc": "Information must be secured so that it cannot be harvested by hackers for use in identity theft or other fraudulent schemes."
+            },
+            {
+              "desc": "Making sure sensitive information like bank account and contact details are safe from fraud is another important aspect of data security."
+            }
+          ]
+        },
+        {
+          "title": "Information Protection Threats ",
+          "description": [
+            {
+              "desc": "Identity theft:  is the act of posing as someone else in order to steal a person's personal information or essential information, such as accessing a person's computer or social media account by using their login credentials."
+            },
+            {
+              "desc": "Theft of equipment and information: is on the rise these days Because of the mobile nature of gadgets and rising information capacity"
+            },
+            {
+              "desc": "Sabotage: is described as ruining someone's social media or information in order to cause the individual to lose confidence."
+            },
+            {
+              "desc": "Information extortion: is using someone else's assets or information to get revenue. For instance, ransomware may lock victims' files and demand money. After payment, victim info will be accessible."
+            },
+            {
+              "desc": "Phishing attacks: are the practice of sending fraudulent communications that appear to come from a reputable source. It is usually performed through email. The goal is to steal sensitive data like credit card and login information or to install malware on the victim's hardware."
+            }
+          ]
+        }
+      ],
+      "status": 0
+    }
+  ]
+}

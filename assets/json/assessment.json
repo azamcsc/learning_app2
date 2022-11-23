@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "flag": 0,
+      "ans": null,
+      "question": "Tricking people into giving up their passwords and information.",
+      "options": [
+        {
+          "oid": "A",
+          "desc": "Phishing",
+          "mark": 1,
+          "index": 0
+        },
+        {
+          "oid": "B",
+          "desc": "Digital Footprint",
+          "mark": 0,
+          "index": 1
+        },
+        {
+          "oid": "C",
+          "desc": "Spyware",
+          "mark": 0,
+          "index": 2
+        },
+        {
+          "oid": "D",
+          "desc": "Firewall",
+          "mark": 0,
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "flag": 0,
+      "ans": null,
+      "question": "If you are in a gaming room and someone that you do not know asks you about personal information (same age as you-or close), what do you do?",
+      "options": [
+        {
+          "oid": "A",
+          "desc": "tell them just a little bit about yourself.",
+          "mark": 0,
+          "index": 0
+        },
+        {
+          "oid": "B",
+          "desc": "never give out any personal information.",
+          "mark": 1,
+          "index": 1
+        },
+        {
+          "oid": "C",
+          "desc": "tell them everything they want to know.",
+          "mark": 0,
+          "index": 2
+        },
+        {
+          "oid": "D",
+          "desc": "Don't trust what people say on the internet. They could be something different than they say",
+          "mark": 1,
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "flag": 0,
+      "ans": null,
+      "question": "Which of the following best describes confidentiality as it relates to information protection?",
+      "options": [
+        {
+          "oid": "A",
+          "desc": "Locking files in a desk",
+          "mark": 0,
+          "index": 0
+        },
+        {
+          "oid": "B",
+          "desc": "Backing up a hard drive",
+          "mark": 0,
+          "index": 1
+        },
+        {
+          "oid": "C",
+          "desc": "Keeping a spare password for information access",
+          "mark": 0,
+          "index": 2
+        },
+        {
+          "oid": "D",
+          "desc": "Preventing unauthorized users from accessing information\n",
+          "mark": 1,
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "flag": 0,
+      "ans": null,
+      "question": "I'm online and I get a message from my Internet service provider asking for my password. They say they need it to fix my account. Should I give it to them?",
+      "options": [
+        {
+          "oid": "A",
+          "desc": "Yes",
+          "mark": 0,
+          "index": 0
+        },
+        {
+          "oid": "B",
+          "desc": "No. you should never give out your Internet password to anyone (even your best friends) other than your parents. Most other Internet service providers will never ask you for a password",
+          "mark": 1,
+          "index": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "topic": 1,
+      "title": "Information Protection2",
+      "overview": "The internet provides users with access to a wealth of valuable information and facilitates communication across great distances. However, as a user, you need to be aware of some of the dangers that are there while you are using the internet because it is possible that you will not know what happens behind your screen when you submit information. In this topic, you will be able to learn how to protect your data from unauthorized people from accessing it.",
+      "lessons": [
+        {
+          "title": "Introduction",
+          "time": "15 minutes",
+          "image": "assets/images/Number1.png",
+          "code": "SUB1",
+          "status": 0
+        },
+        {
+          "title": "Lesson 2",
+          "time": "15 minutes",
+          "image": "assets/images/sign.png",
+          "code": "SUB2",
+          "status": 0
+        },
+        {
+          "title": "Lesson 3",
+          "time": "15 minutes",
+          "image": "assets/images/Topic1.jpg",
+          "code": "SUB3",
+          "status": 0
+        }
+      ],
+      "assessment": [
+        {
+          "title": "Assessment",
+          "time": "15 minutes",
+          "image": "assets/images/Topic 1.png",
+          "code": "ASS1",
+          "status": 0
+        }
+      ]
+    }
+  ]
+}

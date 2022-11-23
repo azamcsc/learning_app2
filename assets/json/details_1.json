@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "topic": 1,
+      "title": "Lesson 1: Introduction ",
+      "content" : [
+        {
+          "title": "What is introduction Protection?",
+          "description": [
+            {
+              "desc": "When we talk about information protection, we mean the safeguarding of data and information systems against unauthorised access, use, disclosure"
+            },
+            {
+              "desc": "Confidentiality: involves in maintaning authorised constraints on access and disclosure, as well as safeguards for personal privacy and priviledged data."
+            },
+            {
+              "desc": "Integrity: which involves assuring information nonrepudiatuin and authenticity, is protecting against incorrect information"
+            },
+            {
+              "desc": "Availability: to provide quick and dependable access to and use of information"
+            }
+          ]
+        }
+      ],
+      "status": 0
+    }
+  ]
+}

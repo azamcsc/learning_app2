@@ -1,0 +1,48 @@
+{
+    "data": [
+      {
+        "topic": 2,
+        "title": "Lesson 1: What is Chat Safe? ",
+        "content" : [
+          {
+            "title": "Why is it importance?",
+            "description": [
+              {
+                "desc": "Chat messaging apps, the trending technology that has made connections and communications at everyone's reach, making people think over security and the encryption."
+              },
+              {
+                "desc": "Well, encryption is the process where the text data is converted into a cipher (a non-readable content), which maintains and protects the privacy of the message from any third party"
+              }
+            ] 
+          },
+          {
+            "title": "Some of the benefits of these encrypted data includes:",
+            "description": [
+              {
+                "desc": "Full Protection on Personal Information : Encryption ensures a safe transmission of any personal over the internet."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "description": [
+              {
+                "desc": "High Data integrity : Generally, it's very difficult to hack any encrypted data. So, if someone tries to breach the data, the system will notify the issue instantly and avoid the theft in the first place."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "description": [
+              {
+                "desc": "Data Protection Across Multiple Devices: Whatever be the device, encryption ensures a complete protection over user's data despite of devices."
+              }
+            ]
+          }
+
+        ],
+        "status": 0
+      }
+      
+    ]
+  }

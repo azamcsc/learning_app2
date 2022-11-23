@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "topic": 2,
+      "title": "Password Protection",
+      "overview": "Passwords, which are the keys to our digital kingdom, should be guarded with extreme caution. That is typically all that is necessary for a cybercriminal to do in to gain your account's access. The following topic will not only explain how to establish secure passwords and keep them safe, but also explain why this is important.",
+      "lessons": [
+        {
+          "title": "Introduction",
+          "time": "15 minutes",
+          "image": "assets/images/Number1.png",
+          "code": "SUB1",
+          "status": 0
+        },
+        {
+          "title": "Lesson 2",
+          "time": "15 minutes",
+          "image": "assets/images/sign.png",
+          "code": "SUB2",
+          "status": 0
+        },
+        {
+          "title": "Lesson 3",
+          "time": "15 minutes",
+          "image": "assets/images/Topic1.jpg",
+          "code": "SUB3",
+          "status": 0
+        }
+      ],
+      "assessment": [
+        {
+          "title": "Assessment",
+          "time": "15 minutes",
+          "image": "assets/images/Topic 1.png",
+          "code": "ASS1",
+          "status": 0
+        }
+      ]
+    }
+  ]
+}
